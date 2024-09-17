@@ -58,3 +58,28 @@ To run this project locally:
 │   └── images/              # Images for categories, sliders, testimonials, etc.
 ├── index.html               # Main HTML file
 └── README.md                # Documentation
+
+## How to Contribute
+Contributions are welcome! To contribute:
+
+1. Fork the repository.
+2. Create a new branch:
+    ```bash
+    git checkout -b feature-branch-name
+    ```
+3. Make your changes.
+4. Commit your changes:
+    ```bash
+    git commit -m "Add new feature"
+    ```
+5. Push to your branch:
+    ```bash
+    git push origin feature-branch-name
+    ```
+6. Create a pull request.
+
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## SQL
+Feel free to adjust the repository URL, contribution guidelines, or other sections based on your specific project needs!
