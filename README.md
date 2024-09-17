@@ -58,6 +58,7 @@ To run this project locally:
 │   └── images/              # Images for categories, sliders, testimonials, etc.
 ├── index.html               # Main HTML file
 └── README.md                # Documentation
+```
 
 ## How to Contribute
 Contributions are welcome! To contribute:
